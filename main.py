@@ -59,7 +59,7 @@ submenu_1 = [
         # use Row and Col components to postion the chevrons
         dbc.Row(
             [
-                dbc.Col("Historical Stock Data"),
+                dbc.Col("Historical Stock  Data"),
                 dbc.Col(
                     html.I(className="fas fa-chevron-right me-3"),
                     width="auto",
